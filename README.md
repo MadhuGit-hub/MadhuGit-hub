@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate to build an Community.
 - 📫 You can Reach me by connecting in LinkedIN
 - 
-- ⚡ n fact: I once built a TIC-TAK_TOE game using AI tools and also created an Advetisment with AI tools from script and a cafe website.
+- ⚡ fun fact: I once built a TIC-TAK_TOE game using AI tools and also created an Advetisment with AI tools from script and a cafe website.
 
 <!---
 MadhuGit-hub/MadhuGit-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
